@@ -1,6 +1,9 @@
 # Sudoku-Solver-CSP-modelling-in-Z3
 Constraint satisfaction Problem (CSP)
 
+
+<img src="https://github.com/vipul9/Sudoku-Solver-CSP-modelling-in-Z3/blob/main/sdk.png" width="400"/>
+
 By implementing following constraints, sudoku problem can be solved.
 
 1. Typical Sudoku constraints:
